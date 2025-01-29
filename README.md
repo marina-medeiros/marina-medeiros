@@ -1,4 +1,4 @@
-## Olá!! Me chamo Kael, sou técnico em desenvolvimento web!
+## Oi!
 
 - 🌱 Atualmente cursando Ciência da Computação na UFRN
 - 📫 Contate-me no email: marinamaleite@gmail.com
