@@ -1,6 +1,6 @@
 ## Oi!
 
-- 🌱 Atualmente cursando Ciência da Computação na UFRN
+- 🌱 Atualmente cursando Tecnologia da Informação na UFRN
 - 📫 Contate-me no email: marinamaleite@gmail.com
   
 <div align="center">
@@ -22,6 +22,8 @@
  
  ## 
   - 🛠️ **Tecnologias:**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
@@ -30,7 +32,8 @@
 
 <div style="display: inline_block"> 
 
-  <a href = "mailto:marinamaleite@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+
 
 </div>
 
