@@ -9,6 +9,12 @@
 </div>
 
  ##    
+- 💻 **Meus projetos favoritos:**
+  - [SLOC](https://github.com/marina-medeiros/SLOC)
+
+ 
+
+ ##    
 - 💻 **Linguagens:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 5px;">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
