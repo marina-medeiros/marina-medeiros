@@ -5,8 +5,9 @@
   
 <div align="center">
   <a href="https://github.com/marina-medeiros">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpazmarcato&layout=compact&langs_count=10&theme=midnight-purple&hide=VHDL"/>
 </div>
+
 
  ##    
 - 💥 **Meus projetos favoritos:**
