@@ -1,6 +1,6 @@
 ## Oi!
 
-- 🌱 Atualmente cursando Tecnologia da Informação na UFRN
+- 🌱 Cursando Tecnologia da Informação na UFRN
 - 📫 Contate-me no email: marinamaleite@gmail.com
   
 <div align="center">
