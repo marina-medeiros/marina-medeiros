@@ -13,7 +13,7 @@
 - 💥 **Meus projetos favoritos:**
   - [SLOC](https://github.com/marina-medeiros/SLOC)
   - [BattleShip Puzzle Generator](https://github.com/marina-medeiros/BattleshipPuzzleGenerator)
-  - [Hangman Game (Jogo da Forca!)](https://github.com/marina-medeiros/HangmanGame)
+  - [Hangman Game](https://github.com/marina-medeiros/HangmanGame)
   - [Life Simulation](https://github.com/marina-medeiros/LifeVisualizer)
   - [Snaze](https://github.com/marina-medeiros/snaze)
   - [Sistema ProEIDI](https://github.com/marina-medeiros/SistemaProEIDI)
